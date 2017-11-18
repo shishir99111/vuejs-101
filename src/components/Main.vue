@@ -83,13 +83,13 @@
               <Home></Home>
         </div>
         <div class="layout-copy">
-            2011-2016 &copy; TalkingData
+            &copy; Shishir
         </div>
     </div>
 </template>
 <script>
     import Home from './Home';
-    
+
     export default {
       components: { Home },
     };
