@@ -13,7 +13,7 @@ export default new Router({
       path: 'home',
       name: 'home',
       component: resolve => {
-        require(['../components/Home.vue'], resolve);
+        require(['../components/Home.vue'], resolve)
       },
     }],
   }],
